@@ -7,3 +7,7 @@ Another function of the operating system is managing the devices connected to th
 Each device, such as mouse, keyboard, printer etc. has its own program with its own set of commands, called driver. 
 This driver usually needs to be connected, for example through, a USB port. 
 The operating system communicates with a device through a driver. 
+
+An operating system also functions as a program manager. 
+Multitasking operating systems can run multiple programs at the same time. 
+Usually one program is displayed in the foreground and others are in the background. 
