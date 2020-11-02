@@ -2,3 +2,8 @@ One of the functions of an operating system is managing the memory.
 The operating system oversees the memory location. 
 When the computer is on and data is being processed the operating system decided where to distribute this data to which memory location. 
 When data is distributed or removed the operating system updates the memory.
+
+Another function of the operating system is managing the devices connected to the computer. 
+Each device, such as mouse, keyboard, printer etc. has its own program with its own set of commands, called driver. 
+This driver usually needs to be connected, for example through, a USB port. 
+The operating system communicates with a device through a driver. 
