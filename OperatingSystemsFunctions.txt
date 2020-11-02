@@ -1,0 +1,4 @@
+One of the functions of an operating system is managing the memory. 
+The operating system oversees the memory location. 
+When the computer is on and data is being processed the operating system decided where to distribute this data to which memory location. 
+When data is distributed or removed the operating system updates the memory.
